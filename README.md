@@ -4,7 +4,7 @@
 
 ## Installation
 
-* `git clone git@github.com:the-road-to-deno/deno-oak.git`
-* `cd deno-oak`
-* `deno run --allow-net --allow-read index.ts`
-* visit `http://localhost:8000`
+- `git clone git@github.com:the-road-to-deno/deno-oak.git`
+- `cd deno-oak`
+- `deno run --allow-net index.ts`
+- visit `http://localhost:8000`
